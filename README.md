@@ -1,2 +1,2 @@
 # DFS
-programa que utiliza busqueda dfs bfs y hill 
+programa que utiliza busqueda dfs bfs y hill en java
